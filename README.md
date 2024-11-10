@@ -2,7 +2,7 @@
 
 Brainwave AI Chat Application is a modern, intuitive chat platform developed using React.js and Tailwind CSS. This project combines a sleek design with seamless animations to deliver a superior user experience. Brainwave AI serves as a benchmark for modern web applications, offering an inspirational reference for UI/UX in future projects.
 
-## Table of Contents
+## 📑 Table of Contents
 
 - [Project Overview](#project-overview)
 - [Features](#features)
@@ -10,18 +10,18 @@ Brainwave AI Chat Application is a modern, intuitive chat platform developed usi
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 
-## Project Overview
+## 🌄 Project Overview
 
 The Brainwave AI Chat Application is crafted with user experience at the forefront. Its sophisticated design and fluid interactions create a polished, enjoyable experience for users. This application can serve as a template or inspiration for future modern web projects, showcasing high standards in functionality and visual appeal.
 
-## Features
+## 🚀 Features
 
 - **Real-time Chat Functionality:** Instant messaging for smooth, uninterrupted conversation.
 - **Responsive Design:** Optimized for desktops, tablets, and mobile devices.
 - **Sleek Animations:** Subtle animations enhancing the user experience.
 - **User-Friendly Interface:** Clean, modern design with intuitive navigation.
 
-## Technologies Used
+## 🛠 Technologies 
 
 - **JavaScript** - Core language for application logic.
 - **React.js** - Framework for building interactive UIs.
